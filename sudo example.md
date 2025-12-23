@@ -171,3 +171,8 @@ $$
 
 mike.zhang09uk@QwenAI.onmicrosoft.com
 19ZHy@
+
+Codex CLI: 
+```bash
+npm i -g @openai/codex@latest
+```
